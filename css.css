@@ -1,0 +1,36 @@
+#main-title
+{
+    font-size: 30px;
+}
+
+#firstline
+{
+    margin-top: 0px;
+}
+
+.code1
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #660000;
+}
+
+.code2
+{
+    font-size: 17px;
+    color: rgb(0, 0, 0);
+    
+}
+.code3
+{
+    font-size: 17px;
+    color: black;
+    font-weight: bold; 
+}
+
+
+.last
+{
+    color: black;
+    font-family: Verdana, Arial, Helvetica, sans-serif   
+}
